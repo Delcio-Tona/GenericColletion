@@ -11,6 +11,10 @@ This time we use generic collections (List<T>) for better understanding, which a
 
 A unit test design is added to ensure the correctness of the total calorie calculation logic, increasing the reliability of the application.
 
-![Screenshot 2024-05-13 at 22 43 56](https://github.com/Delcio-Tona/Part2/assets/136386837/f778d8c1-8a4e-49e7-b46d-78f4d5363bd1)
-
 https://github.com/Delcio-Tona/Part2 
+
+There is not too much that I have to change.
+So, the first one is: Structured somewhat well, with some comments. 
+* Now I wrote more comments, I explained more about the code.
+Second: No readme file is included, or the readme file doesn't provide any helpful information about running the application. The readme file contains information about running the app, but it is hard to understand or doesn't work.
+* Now the readme file is included with more helpful information about how to running the application.
